@@ -1,0 +1,3 @@
+flask
+pickle4
+numpy
